@@ -1,0 +1,54 @@
+.header-page h1{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-login {
+    border: 50px;
+    border-color: black;
+}
+
+.form-login label{
+    display:block;
+    font-size: 20px;
+}
+
+.form-login input{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 100%;
+}
+
+.btn-Enviar{
+    display: flex;
+    justify-content: flex-end;  
+    flex-direction: row;
+}
+
+.footer-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cadetblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#image{
+    width: 30px;
+    margin-right: 10px;
+}
