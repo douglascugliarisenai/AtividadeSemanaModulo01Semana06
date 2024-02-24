@@ -5,9 +5,9 @@
 <h1 align="center">
     <a href="https://floripamaistec.pmf.sc.gov.br/">🔗 Floripa Mais Tec</a>
 </h1>
-<p align="center">🚀 Exercício 04:  Estilização CSS</p>
+<p align="center">🚀 Exercício 07: JavaScript básico</p>
 
-<p>No arquivo CSS, adicione estilos para os elementos HTML adicionados anteriormente, como formatação de texto, cores, espaçamento, etc.</p>
+<p>Crie um arquivo JavaScript chamado script.js e adicione uma função simples que escreva uma mensagem de boas-vindas no alert.</p>
 
 
 
