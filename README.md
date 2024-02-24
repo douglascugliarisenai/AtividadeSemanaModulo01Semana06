@@ -26,3 +26,8 @@
     * 🚀 Assunto: Inicialização do Git
     * 🚀 Assunto: Criação de Branch
     * 🚀 Assunto: Integração Git/Github
+
+</br>
+</br>
+
+📌<b style="color: red; font-size: 15px"> Exercícios 05 e 06 foi relacionado a versionamento no Git.</b>
