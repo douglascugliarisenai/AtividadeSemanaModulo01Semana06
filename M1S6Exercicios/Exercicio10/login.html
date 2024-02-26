@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/login.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <title>Receitas do Chefe</title>
+</head>
+
+<body>
+    <!-- Cabeçalho -->
+    <header class="header-page">
+        <h1>Receitas do Chefe</h1>
+    </header>
+
+    <!-- Conteúdo principal -->
+    <div class="container">
+        <div class="form">
+            <form class="form-login" method="post">
+                <h2>Login</h2>
+                <input type="text" name="username" class="input" id="user" placeholder="Insira seu usuário" >
+                <input type="password" name="pass" class="input" id="password" placeholder="Insira sua senha" >
+                <div id="senha">
+                   <p>
+                       <a href="#">Esqueceu a senha?</a>
+                   </p>
+               </div>
+                <div id="botoes">
+                    <button class="btn-login" onclick="return logar()">
+                        <span>LOGIN</span>
+                    </button>
+                     
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+    <!-- Rodapé -->
+    <footer class="footer-page">
+        <img src="./assets/img/logo-black.jpeg" alt="Logo Douglas Cugliari" height="30">
+    </footer>
+
+    <script src="./assets/script.js"></script>
+</body>
+
+</html>
